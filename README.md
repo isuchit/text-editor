@@ -6,4 +6,4 @@ A simple text editor to align or change text to Bold, Italic and Underline.
 
 ## Screenshot
 
-![text-editor](/screenshot/text-editor.png)
+![text-editor](/screenshot/textEditor.png)
